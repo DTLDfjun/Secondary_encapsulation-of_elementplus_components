@@ -1,8 +1,5 @@
 # 基于Vue3+Vite+TS，二次封装element-plus业务组件
 基于vue3+vite+ts二次封装element-plus业务组件，实现业务组件的封装、复用、组件库的搭建,并实现组件的按需加载，提高开发效率。包含了图标选择器，趋势标记，通知菜单等基础组件，以及表格、表单、弹窗、分页等业务组件。表单还使用了vee-validate进行表单验证,并且支持markdown输入，文件上传。
-## 演示地址
-
-### [点击预览](https://youwei997.github.io/vue3-ts-elementplus-components-web/#/)
 
 ## 一、技术栈
 
