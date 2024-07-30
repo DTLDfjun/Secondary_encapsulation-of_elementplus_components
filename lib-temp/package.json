@@ -1,0 +1,15 @@
+{
+  "name": "youwe1-element-components",
+  "version": "1.0.0",
+  "main": "index.umd.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "author": {
+    "name": "youwe1"
+  },
+  "keywords": [
+    "element-plus",
+    "ts",
+    "vue-components"
+  ]
+}
